@@ -1,0 +1,42 @@
+body{
+	background-color: #E5E3E3;
+}
+.h1{
+
+	font-style: Helvetica Neue;
+
+}
+.row {
+	padding-top:20px;
+}
+.row .col{
+	/*border-style: solid;*/
+	height:80px;
+
+}
+.row .col-7{
+	/*border-style: solid;*/
+	height:80px;
+	padding-top :20px;
+}
+.row .col-4{
+	/*border-style: solid;*/
+	height:80px;
+}
+.main {
+	width:500px;
+	height:50px;
+}
+.signal{
+	/*border-style: solid;*/
+	margin-top:20px;
+	margin-left:250px;
+	width:50px;
+	height:50px;
+}
+#span{
+	position: absolute; 
+	top: 10%; 
+	left: 10%;
+	
+}
